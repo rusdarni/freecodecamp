@@ -4,3 +4,4 @@
 //SOLUTION:
 
 var myName;
+
