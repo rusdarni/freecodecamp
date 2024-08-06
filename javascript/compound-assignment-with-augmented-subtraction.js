@@ -15,5 +15,7 @@
 // b = b - 15;
 // c = c - 1;
 
+// SOLUTION:
+
 var b = 10;
 b -= 4; // Now, 'b' is 6
