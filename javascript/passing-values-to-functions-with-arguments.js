@@ -19,6 +19,7 @@
 // and outputs their sum to the dev console.
 // Call the function with two numbers as arguments.
 
+// SOLUTION:
 function functionWithArgs(param1, param2) {
     console.log(param1 + param2);
 }
