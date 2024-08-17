@@ -23,6 +23,7 @@
 // }
 //
 // testElseIf(7);
+// SOLUTION:
 function testElseIf(val) {
     if (val > 10) {
         return "Greater than 10";
