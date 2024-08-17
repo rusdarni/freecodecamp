@@ -25,7 +25,7 @@
 // }
 //
 // testLessThan(10);
-
+// SOLUTION:
 function testLessThan(val) {
     if (val < 25) return "Under 25";
 
