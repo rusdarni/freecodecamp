@@ -17,6 +17,17 @@
 // >= par + 3	"Go Home!"
 // par and strokes will always be numeric and positive.
 // We have added an array of all the names for your convenience.
+// const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+//
+// function golfScore(par, strokes) {
+//     // Only change code below this line
+//
+//
+//     return "Change Me";
+//     // Only change code above this line
+// }
+//
+// golfScore(5, 4);
 
 // SOLUTION:
 const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
