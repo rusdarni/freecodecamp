@@ -24,7 +24,7 @@
 // Note: A copy of the recordCollection object is used for the tests.
 // You should not directly modify the recordCollection object.
 //
-// Setup
+// // Setup
 // const recordCollection = {
 // 2548: {
 //      albumTitle: 'Slippery When Wet',
